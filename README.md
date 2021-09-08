@@ -15,3 +15,20 @@ Public fdp batch for python
 [Day 05 Session Recorded link](https://transcripts.gotomeeting.com/#/s/351700bbff31585b36a20d06088feae7b717f91dd35e45e1ba8174f04e358dcd)
 
 [Day 06 Session Recorded link](https://transcripts.gotomeeting.com/#/s/e3d33f4f8e4a004e37dce918e7107fbc884bf9bf6962a4280e8fa055fa6fbf7e)
+
+[Day 07 Session Recorded link](https://transcripts.gotomeeting.com/#/s/e5f65874e4d3d382aa524afd506db84a94ecc1d7a7fd62f4cb06f309f00a4194)
+
+[Day 08 Session Recorded link](https://transcripts.gotomeeting.com/#/s/3917ab4bccec42c151f3ada1f710642e5a32b36981a9b01f73807274165f0bd7)
+
+[Day 09 Session Recorded link](https://transcripts.gotomeeting.com/#/s/06c8679c4cf2667435c4448215396eb1ccae527b2a08932c8e7fdf48449f2c56)
+
+[Day 10 Session Recorded link](https://transcripts.gotomeeting.com/#/s/bb1c976686b7d40ad12efcc2f12d40f1c26881746fef0eae4fa3d98281de7da1)
+
+[Day 11 Session Recorded link](https://transcripts.gotomeeting.com/#/s/8a82a1dba8773cf2abfbe0a78f245c5eaa27693c12360f2c8057fafafc3339fc)
+
+[Day 12 Session Recorded link](https://transcripts.gotomeeting.com/#/s/519db1de43b56e167f3bdca0e7c57e25ee15801e974555ab5b4a25b516401fca)
+
+[Day 13 Session Recorded link](https://transcripts.gotomeeting.com/#/s/98a13785a59b15d1c266987699193922c09535192c6fd28098cb35eea30d7a9a)
+
+[Day 14 Session Recorded link](https://transcripts.gotomeeting.com/#/s/548ebce835e7cadac48d668dbdbeff6ca8d350558e966b0648c337923d2b9c03)
+
